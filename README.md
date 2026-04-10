@@ -1,5 +1,7 @@
 # 💻 Landing Page Interativa
 
+Este projeto foi desenvolvido com o objetivo de evoluir minhas habilidades em JavaScript, aplicando conceitos de manipulação de DOM, eventos e armazenamento local (localStorage). A aplicação permite alternar entre temas, modificar cores dinamicamente e interagir com o usuário em tempo real.
+
 <p align="center">
   <img src="./preview.png" width="700">
 </p>
