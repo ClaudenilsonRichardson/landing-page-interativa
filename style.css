@@ -1,0 +1,82 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  transition: 0.3s;
+  background-color: #f5f5f5;
+}
+
+/* Header */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Título */
+h1 {
+  font-size: 28px;
+}
+
+/* Botões gerais */
+button {
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #017143;
+  color: white;
+  transition: 0.3s;
+}
+
+/* Efeito hover */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Conteúdo */
+.conteudo {
+  margin-top: 40px;
+}
+
+/* Texto */
+p {
+  margin-top: 10px;
+}
+
+/* Seção de cores */
+.cores {
+  margin-top: 40px;
+}
+
+/* Botões de cor */
+.cor {
+  margin-right: 10px;
+}
+
+/* Tema escuro */
+.dark {
+  background-color: #121212;
+  color: white;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+button {
+  font-weight: bold;
+}
